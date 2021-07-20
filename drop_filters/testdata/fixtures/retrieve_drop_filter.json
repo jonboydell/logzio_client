@@ -1,0 +1,24 @@
+[
+  {
+    "id": "some-drop-filter-id",
+    "active": true,
+    "logType": "some_type",
+    "fieldConditions": [
+      {
+        "fieldName": "some_field",
+        "value": "ok"
+      }
+    ]
+  },
+  {
+    "id": "another-drop-filter-id",
+    "active": true,
+    "logType": "other_type",
+    "fieldConditions": [
+      {
+        "fieldName": "field",
+        "value": 200
+      }
+    ]
+  }
+]

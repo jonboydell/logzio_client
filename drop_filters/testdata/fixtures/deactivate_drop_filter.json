@@ -1,0 +1,11 @@
+{
+  "id": "some-drop-filter-id",
+  "active": false,
+  "logType": "some_type",
+  "fieldConditions": [
+    {
+      "fieldName": "some_field",
+      "value": "ok"
+    }
+  ]
+}
